@@ -1,4 +1,4 @@
-## KH Item Tracker
+## Kingdom Hearts 1.5 Item Tracker!
 
 A Kingdom Hearts 1.5 item tracker built in RPG Maker MZ.  
 Keep track of your items easily while playing!
@@ -25,3 +25,9 @@ If you want the full project with version history (although theres not much of a
 ```bash
 git clone https://github.com/Tonedawg1/KH_Item_Tracker.git
 git lfs pull
+
+---
+
+## Example Picture
+
+<img width="4572" height="968" alt="example image" src="https://github.com/user-attachments/assets/6dfad7d3-5421-410f-85a8-c995c51b928c" />
