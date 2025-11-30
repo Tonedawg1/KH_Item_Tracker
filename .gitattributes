@@ -1,0 +1,8 @@
+*.dll filter=lfs diff=lfs merge=lfs -text
+d3dcompiler_47.dll filter=lfs diff=lfs merge=lfs -text
+ffmpeg.dll filter=lfs diff=lfs merge=lfs -text
+libEGL.dll filter=lfs diff=lfs merge=lfs -text
+libGLESv2.dll filter=lfs diff=lfs merge=lfs -text
+node.dll filter=lfs diff=lfs merge=lfs -text
+nw.dll filter=lfs diff=lfs merge=lfs -text
+nw_elf.dll filter=lfs diff=lfs merge=lfs -text
