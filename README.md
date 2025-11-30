@@ -11,7 +11,7 @@ Keep track of your items easily while playing!
 2. Download the latest ZIP file (e.g., "KH.Items.Tracker.Windows.Version.zip").  
 3. Extract/unzip the ZIP to a folder on your computer.  
 4. Double-click `KH Item Tracker.exe` to launch the program.  
-5. (Optional) Create a shortcut of the KH Item Tracker.exe (right click it and say create shortcut) and move the shortcut whereever you want to ease of acess.
+5. (Optional) Create a shortcut of the KH Item Tracker.exe (right click it and say create shortcut) and move the shortcut whereever you want for ease of access.
 
 ---
 
