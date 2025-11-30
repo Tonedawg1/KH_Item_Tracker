@@ -5,7 +5,7 @@ Keep track of your items easily while playing!
 
 ---
 
-## ✅ Download & Use (For Casual Users)
+## ✅ Download & Use (For Normal Users)
 
 1. Go to the [Releases page](https://github.com/Tonedawg1/KH_Item_Tracker/releases).  
 2. Download the latest ZIP file (e.g., "KH.Items.Tracker.Windows.Version.zip").  
@@ -15,7 +15,7 @@ Keep track of your items easily while playing!
 
 ---
 
-## 📦 Developer Version (Optional)
+## 📦 Developer Version (Optional For Devs to Inspect)
 
 If you want the full project with version history:
 
