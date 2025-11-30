@@ -8,12 +8,10 @@ Keep track of your items easily while playing!
 ## ✅ Download & Use (For Casual Users)
 
 1. Go to the [Releases page](https://github.com/Tonedawg1/KH_Item_Tracker/releases).  
-2. Download the latest ZIP file (e.g., `KH_Item_Tracker_v1.0.zip`).  
-3. Extract the ZIP to a folder on your computer.  
-   - Make sure files like `nw.dll` and the `www` folder are at the top level.  
-4. Double-click `nw.exe` (the tracker executable) to launch the program.  
-
-No Git, no Git LFS, no installation — just extract and run.
+2. Download the latest ZIP file (e.g., "KH.Items.Tracker.Windows.Version.zip").  
+3. Extract/unzip the ZIP to a folder on your computer.  
+4. Double-click `KH Item Tracker.exe` to launch the program.  
+5. (Optional) Create a shortcut of the KH Item Tracker.exe (right click it and say create shortcut) and move the shortcut whereever you want to ease of acess.
 
 ---
 
