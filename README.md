@@ -1,7 +1,10 @@
 ## Kingdom Hearts 1.5 Item Tracker!
 
 A Kingdom Hearts 1.5 item tracker built in RPG Maker MZ.  
-Keep track of your items easily while playing!
+Keep track of your items easily while playing! This includes
+a Synthesis Shop screen that will update how many items you 
+still need as you check things off, as well as guides for many
+of the important treasure chests in the game!
 
 ---
 
