@@ -22,6 +22,7 @@ If you want the full project with version history:
 1. Make sure [Git](https://git-scm.com/) and [Git LFS](https://git-lfs.github.com/) are installed.  
 2. Clone the repository with LFS:
 
+then with git bash do the following commands.
 ```bash
 git clone https://github.com/Tonedawg1/KH_Item_Tracker.git
 git lfs pull
