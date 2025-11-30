@@ -1,6 +1,6 @@
 ## KH Item Tracker
 
-A Kingdom Hearts item tracker built in RPG Maker MZ.  
+A Kingdom Hearts 1.5 item tracker built in RPG Maker MZ.  
 Keep track of your items easily while playing!
 
 ---
