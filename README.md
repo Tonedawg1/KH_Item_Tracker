@@ -17,7 +17,7 @@ Keep track of your items easily while playing!
 
 ## 📦 Developer Version (Optional For Devs to Inspect)
 
-If you want the full project with version history:
+If you want the full project with version history (although theres not much of a history at the moment to show):
 
 1. Make sure [Git](https://git-scm.com/) and [Git LFS](https://git-lfs.github.com/) are installed.  
 2. Clone the repository with LFS:
