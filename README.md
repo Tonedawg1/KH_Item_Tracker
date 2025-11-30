@@ -19,7 +19,7 @@ of the important treasure chests in the game!
 ---
 
 ## Example Picture
-This is just some of the things it has to offer!
+This is just some of the things it has to offer! On the treasure chest pages, you can click on the pictures to enlarge them.
 <img width="4572" height="968" alt="example image" src="https://github.com/user-attachments/assets/6dfad7d3-5421-410f-85a8-c995c51b928c" />
 
 ---
