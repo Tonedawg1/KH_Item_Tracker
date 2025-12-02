@@ -4,7 +4,8 @@ A Kingdom Hearts 1.5 item tracker built in RPG Maker MZ.
 Keep track of your items easily while playing! This includes
 a Synthesis Shop screen that will update how many items you 
 still need as you check things off, as well as guides for many
-of the important treasure chests in the game!
+of the important treasure chests in the game!  On the treasure 
+chest pages, you can click on the pictures to enlarge them.
 
 ---
 
@@ -19,7 +20,7 @@ of the important treasure chests in the game!
 ---
 
 ## Example Picture
-This is just some of the things it has to offer! On the treasure chest pages, you can click on the pictures to enlarge them.
+This is just some of the things it has to offer!
 <img width="4572" height="968" alt="example image" src="https://github.com/user-attachments/assets/b1dc1d14-a03d-4aef-bd81-dd03c7ba42d8" />
 
 
