@@ -9,7 +9,7 @@ chest pages, you can click on the pictures to enlarge them.
 
 ---
 
-## ✅ Download & Use (For Normal Users)
+## ✅ Download & Use
 
 1. Go to the [Releases page](https://github.com/Tonedawg1/KH_Item_Tracker/releases).  
 2. Download the latest ZIP file (e.g., "KH.Items.Tracker.Windows.Version.zip").  
@@ -22,17 +22,3 @@ chest pages, you can click on the pictures to enlarge them.
 ## Example Picture
 This is just some of the things it has to offer!
 <img width="4572" height="968" alt="example image" src="https://github.com/user-attachments/assets/b1dc1d14-a03d-4aef-bd81-dd03c7ba42d8" />
-
-
----
-
-## 📦 Developer Version (Optional For Devs to Inspect)
-
-If you want the full project with version history (although theres not much of a history at the moment to show):
-
-1. Make sure [Git](https://git-scm.com/) and [Git LFS](https://git-lfs.github.com/) are installed.  
-2. Clone the repository with LFS:
-3. With Git Bash do the following commands.
-```bash
-git clone https://github.com/Tonedawg1/KH_Item_Tracker.git
-git lfs pull
