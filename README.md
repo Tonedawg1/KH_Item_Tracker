@@ -7,7 +7,8 @@ still need as you check things off, as well as guides for many
 of the important treasure chests in the game!  On the treasure 
 chest pages, you can click on the pictures to enlarge them.
 
-Note: this is not an automated tracker, its intended to be something you check off as you play (I play with it open on my side monitor for example).
+Note: this is not an automated tracker, its intended to be something you check off as you play 
+(I play with it open on my side monitor for example).
 
 ---
 
