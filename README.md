@@ -23,5 +23,5 @@ Note: this is not an automated tracker, its intended to be something you check o
 ---
 
 ## Example Picture
-This is just some of the things it has to offer!
+This an example of 3 of the different pages, and is just some of the things it has to offer, I put a lot of information into the pages.
 <img width="4572" height="968" alt="example image" src="https://github.com/user-attachments/assets/b1dc1d14-a03d-4aef-bd81-dd03c7ba42d8" />
